@@ -2,8 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Arthur Tavares Mendonça, tenho 18 anos e sou natural de Brasília. Conclui o ensino médio em 2024. Atualmente, estou cursando Engenharia de software na UNICEPLAC. Sou apaixonada por tecnologia e sempre estou buscando fazer projetos e melhorar minhas habilidades.
-
+Me chamo Arthur Tavares Mendonça
 ---
 
 ### 🤖 Linguagens e Tecnologias
