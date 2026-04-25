@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Arthur Tavares
 
-**`Dev em contrução`**
+**`Dev em construção`**
 
 ---
 
