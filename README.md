@@ -198,8 +198,8 @@ Estou concentrado em consolidar minha base técnica e transformar projetos reais
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
       width="100%"
-      src="https://github-profile-trophy.vercel.app/?username=arthurtvrs10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1"
-      alt="Troféus GitHub de Arthur Tavares"
+      src="https://trophy.ryglcloud.net/?username=arthurtvrs10&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"
+      alt="Conquistas de Arthur Tavares no GitHub"
     />
   </a>
 </p>
