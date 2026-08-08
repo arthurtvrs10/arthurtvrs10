@@ -29,7 +29,9 @@
 
 <br />
 
-01. ## SOBRE_MIM
+
+
+## SOBRE_MIM
 
 <table>
   <tr>
@@ -63,7 +65,9 @@
   </tr>
 </table>
 
-02. ## TECH_STACK
+
+
+## TECH_STACK
 
 Backend & Core
 
@@ -104,7 +108,9 @@ Labs, Desktop & Media
   <img src="https://img.shields.io/badge/FFmpeg-0B1220?style=for-the-badge&logo=ffmpeg&logoColor=007808" alt="FFmpeg" />
 </p>
 
-03. ## FERRAMENTAS
+
+
+## FERRAMENTAS
 
 <p>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-020617?style=for-the-badge&logo=intellijidea&logoColor=A78BFA" alt="IntelliJ IDEA" />
@@ -115,7 +121,8 @@ Labs, Desktop & Media
   <img src="https://img.shields.io/badge/Zorin_OS-020617?style=for-the-badge&logo=zorin&logoColor=22D3EE" alt="Zorin OS" />
 </p>
 
-04. ## PROJETOS_EM_DESTAQUE
+
+## PROJETOS_EM_DESTAQUE
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -137,7 +144,8 @@ Labs, Desktop & Media
   <tr>
 </table>
 
-05. ## Foco atual
+
+## Foco atual
 
 Estou concentrado em consolidar minha base técnica e transformar projetos reais em produtos completos, da definição do problema até a entrega.
 
@@ -156,7 +164,8 @@ Estou concentrado em consolidar minha base técnica e transformar projetos reais
   />
 </p>
 
-06. ## ## Estatísticas do GitHub
+
+## Estatísticas do GitHub
 
 <p align="center">
   <a href="https://github.com/arthurtvrs10">
@@ -192,7 +201,8 @@ Estou concentrado em consolidar minha base técnica e transformar projetos reais
   />
 </p>
 
-07. ## CONQUISTAS_DESBLOQUEADAS
+
+## CONQUISTAS_DESBLOQUEADAS
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -204,7 +214,9 @@ Estou concentrado em consolidar minha base técnica e transformar projetos reais
   </a>
 </p>
 
-08. ## CONTRIBUTION_SNAKE
+
+
+## CONTRIBUTION_SNAKE
 
 <div align="center">
   <picture>
@@ -224,7 +236,9 @@ Estou concentrado em consolidar minha base técnica e transformar projetos reais
   </picture>
 </div>
 
-09. ## CONECTE-SE
+
+
+## CONECTE-SE
 
 <p align="center">
   <a href="https://github.com/arthurtvrs10">
