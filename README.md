@@ -40,7 +40,7 @@
         problemas de negócio em sistemas úteis, escaláveis e bem organizados.
       </p>
       <p>
-        Minha base atual combina <strong>Java 21, Spring Boot, Next.js e TypeScript</strong>,
+        Minha base atual combina <strong>Java 21, Spring Boot e Next.js</strong>,
         com atenção especial a arquitetura por domínio, APIs REST, bancos de dados,
         automação e experiência do usuário.
       </p>
@@ -71,11 +71,6 @@ Backend & Core
   <img src="https://img.shields.io/badge/Java_21-0B1220?style=for-the-badge&logo=openjdk&logoColor=F8FAFC" alt="Java 21" />
   <img src="https://img.shields.io/badge/Spring_Boot-0B1220?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Maven-0B1220?style=for-the-badge&logo=apachemaven&logoColor=C71A36" alt="Maven" />
-  <img src="https://img.shields.io/badge/JUnit_5-0B1220?style=for-the-badge&logo=junit5&logoColor=25A162" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-0B1220?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-0B1220?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
 </p>
 
 Frontend & Experience
