@@ -218,7 +218,7 @@ Estou concentrado em consolidar minha base técnica e transformar projetos reais
 
 ## CONTRIBUTION_SNAKE
 
-<div align="center">
+<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -231,10 +231,10 @@ Estou concentrado em consolidar minha base técnica e transformar projetos reais
     <img
       width="100%"
       src="https://raw.githubusercontent.com/arthurtvrs10/arthurtvrs10/output/github-contribution-grid-snake.svg"
-      alt="Snake animation do gráfico de contribuições"
+      alt="Animação das contribuições de Arthur Tavares"
     />
   </picture>
-</div>
+</p>
 
 
 
