@@ -239,7 +239,7 @@ Estou concentrado em consolidar minha base técnica e transformar projetos reais
 
 <p align="center">
   <sub>
-    <strong>ARTHUR_OS v1.0</strong> // transformando aprendizado em produtos, um commit por vez.
+    transformando aprendizado em produtos, um commit por vez.
   </sub>
 </p>
 
