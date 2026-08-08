@@ -216,27 +216,6 @@ Estou concentrado em consolidar minha base técnica e transformar projetos reais
 
 
 
-## CONTRIBUTION_SNAKE
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/arthurtvrs10/arthurtvrs10/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/arthurtvrs10/arthurtvrs10/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      width="100%"
-      src="https://raw.githubusercontent.com/arthurtvrs10/arthurtvrs10/output/github-contribution-grid-snake.svg"
-      alt="Animação das contribuições de Arthur Tavares"
-    />
-  </picture>
-</p>
-
-
 
 ## CONECTE-SE
 
