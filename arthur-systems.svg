@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Arthur Tavares — Full Stack Product Builder</title>
+  <desc id="desc">Banner futurista com os projetos, tecnologias e posicionamento profissional de Arthur Tavares.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030712" />
+      <stop offset="0.52" stop-color="#07111f" />
+      <stop offset="1" stop-color="#1b1037" />
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" />
+      <stop offset="0.55" stop-color="#67e8f9" />
+      <stop offset="1" stop-color="#a78bfa" />
+    </linearGradient>
+
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#67e8f9" stop-opacity="0.35" />
+      <stop offset="0.45" stop-color="#22d3ee" stop-opacity="0.12" />
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#67e8f9" stroke-opacity="0.055" stroke-width="1" />
+    </pattern>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="22" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#background)" />
+    <rect width="1200" height="360" fill="url(#grid)" />
+
+    <path d="M0 276 C210 238 360 326 610 274 C820 231 1010 276 1200 226 L1200 360 L0 360 Z" fill="#0c1630" fill-opacity="0.55" />
+    <path d="M0 300 C260 250 400 342 672 292 C902 250 1040 302 1200 262" fill="none" stroke="#a78bfa" stroke-opacity="0.24" stroke-width="1.5" />
+
+    <rect x="0" y="0" width="1200" height="3" fill="url(#accent)" />
+    <rect x="0" y="0" width="280" height="3" fill="#f8fafc" filter="url(#glow)">
+      <animate attributeName="x" values="-280;1200" dur="4.8s" repeatCount="indefinite" />
+    </rect>
+
+    <g font-family="'JetBrains Mono', 'Segoe UI', monospace">
+      <text x="66" y="57" fill="#67e8f9" font-size="14" letter-spacing="2.4">ARTHUR.TAVARES / PROFILE.SYS</text>
+      <circle cx="457" cy="52" r="4" fill="#22d3ee">
+        <animate attributeName="opacity" values="0.25;1;0.25" dur="1.7s" repeatCount="indefinite" />
+      </circle>
+      <text x="470" y="57" fill="#94a3b8" font-size="11" letter-spacing="1.6">BUILDING</text>
+
+      <text x="66" y="137" fill="#f8fafc" font-family="'Segoe UI', Arial, sans-serif" font-size="57" font-weight="800" letter-spacing="-1.5">ARTHUR TAVARES</text>
+      <text x="69" y="181" fill="url(#accent)" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="4">FULL-STACK PRODUCT BUILDER</text>
+      <text x="69" y="224" fill="#cbd5e1" font-size="15" letter-spacing="1.3">PROBLEMA REAL  →  PRODUTO DIGITAL  →  ENTREGA</text>
+
+      <line x1="68" y1="248" x2="755" y2="248" stroke="#334155" stroke-width="1" />
+      <line x1="68" y1="248" x2="240" y2="248" stroke="#22d3ee" stroke-width="2">
+        <animate attributeName="x2" values="140;755;140" dur="6s" repeatCount="indefinite" />
+      </line>
+    </g>
+
+    <g transform="translate(1005 154)">
+      <circle r="132" fill="url(#core)" />
+      <circle r="104" fill="none" stroke="#334155" stroke-width="1" />
+      <circle r="83" fill="none" stroke="#22d3ee" stroke-opacity="0.5" stroke-width="1.5" stroke-dasharray="8 13">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite" />
+      </circle>
+      <circle r="64" fill="none" stroke="#a78bfa" stroke-opacity="0.72" stroke-width="2" stroke-dasharray="34 10">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="11s" repeatCount="indefinite" />
+      </circle>
+      <circle r="48" fill="#07111f" stroke="#67e8f9" stroke-width="1.4" filter="url(#glow)" />
+
+      <g font-family="'Segoe UI', Arial, sans-serif" text-anchor="middle">
+        <text y="12" fill="#f8fafc" font-size="38" font-weight="800" letter-spacing="-2">AT</text>
+        <text y="91" fill="#67e8f9" font-family="'JetBrains Mono', monospace" font-size="10" letter-spacing="2">SYSTEMS ONLINE</text>
+      </g>
+
+      <g>
+        <circle cx="0" cy="-83" r="5" fill="#22d3ee" filter="url(#glow)" />
+        <circle cx="83" cy="0" r="4" fill="#a78bfa">
+          <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="-45" cy="52" r="3.5" fill="#67e8f9">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.4s" repeatCount="indefinite" />
+        </circle>
+      </g>
+    </g>
+
+    <rect x="829" y="20" width="2" height="258" fill="#22d3ee" opacity="0.22" filter="url(#glow)">
+      <animate attributeName="x" values="829;1172;829" dur="7s" repeatCount="indefinite" />
+    </rect>
+
+    <g transform="translate(68 292)" font-family="'JetBrains Mono', 'Segoe UI', monospace">
+      <g>
+        <rect width="204" height="38" rx="7" fill="#07111f" stroke="#22d3ee" stroke-opacity="0.34" />
+        <circle cx="17" cy="19" r="4" fill="#22d3ee" />
+        <text x="31" y="16" fill="#f8fafc" font-size="10" font-weight="700">VARTHEX</text>
+        <text x="31" y="29" fill="#67e8f9" font-size="8" letter-spacing="1">MAIN BUILD</text>
+      </g>
+
+      <g transform="translate(218 0)">
+        <rect width="154" height="38" rx="7" fill="#07111f" stroke="#475569" stroke-opacity="0.55" />
+        <circle cx="17" cy="19" r="4" fill="#a78bfa" />
+        <text x="31" y="16" fill="#f8fafc" font-size="10" font-weight="700">JAVA 21</text>
+        <text x="31" y="29" fill="#94a3b8" font-size="8" letter-spacing="1">CORE</text>
+      </g>
+
+      <g transform="translate(386 0)">
+        <rect width="168" height="38" rx="7" fill="#07111f" stroke="#475569" stroke-opacity="0.55" />
+        <circle cx="17" cy="19" r="4" fill="#22d3ee" />
+        <text x="31" y="16" fill="#f8fafc" font-size="10" font-weight="700">NEXT.JS</text>
+        <text x="31" y="29" fill="#94a3b8" font-size="8" letter-spacing="1">INTERFACE</text>
+      </g>
+
+      <g transform="translate(568 0)">
+        <rect width="187" height="38" rx="7" fill="#07111f" stroke="#475569" stroke-opacity="0.55" />
+        <circle cx="17" cy="19" r="4" fill="#a78bfa">
+          <animate attributeName="opacity" values="0.35;1;0.35" dur="1.8s" repeatCount="indefinite" />
+        </circle>
+        <text x="31" y="16" fill="#f8fafc" font-size="10" font-weight="700">DDD</text>
+        <text x="31" y="29" fill="#94a3b8" font-size="8" letter-spacing="1">EVOLVING</text>
+      </g>
+    </g>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="21.25" fill="none" stroke="#334155" stroke-opacity="0.65" stroke-width="1.5" />
+</svg>
