@@ -238,9 +238,11 @@ Estou concentrado em consolidar minha base técnica e transformar projetos reais
 <br />
 
 <p align="center">
-  <sub>
-    transformando aprendizado em produtos, um commit por vez.
-  </sub>
+  <em>
+    “Nós somos aquilo que fazemos repetidamente. Excelência, então, não é um modo de agir, mas sim um hábito.”
+  </em>
+  <br /><br />
+  <strong>— Aristóteles</strong>
 </p>
 
 <div align="center">
