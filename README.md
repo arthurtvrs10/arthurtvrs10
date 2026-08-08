@@ -29,7 +29,7 @@
 
 <br />
 
-01. SOBRE_MIM
+01. ## SOBRE_MIM
 
 <table>
   <tr>
@@ -54,7 +54,7 @@
 ╭─ DEVELOPER PROFILE ─────────╮
 │ NAME     Arthur Tavares     │
 │ ROLE     Full Stack Dev     │
-│ CORE     Java • TypeScript  │
+│ CORE     Java • Spring Boot │
 │ FOCUS    SaaS • APIs • UX   │
 │ MODE     Learn / Build/Ship │
 │ STATUS   ● ONLINE           │
@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-02. TECH_STACK
+02. ## TECH_STACK
 
 Backend & Core
 
@@ -104,7 +104,7 @@ Labs, Desktop & Media
   <img src="https://img.shields.io/badge/FFmpeg-0B1220?style=for-the-badge&logo=ffmpeg&logoColor=007808" alt="FFmpeg" />
 </p>
 
-03. FERRAMENTAS
+03. ## FERRAMENTAS
 
 <p>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-020617?style=for-the-badge&logo=intellijidea&logoColor=A78BFA" alt="IntelliJ IDEA" />
@@ -115,7 +115,7 @@ Labs, Desktop & Media
   <img src="https://img.shields.io/badge/Zorin_OS-020617?style=for-the-badge&logo=zorin&logoColor=22D3EE" alt="Zorin OS" />
 </p>
 
-04. PROJETOS_EM_DESTAQUE
+04. ## PROJETOS_EM_DESTAQUE
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -137,21 +137,26 @@ Labs, Desktop & Media
   <tr>
 </table>
 
-05. MISSÕES_ATUAIS
+05. ## Foco atual
 
-arthur@jarvis:~$ ./current-missions --status
+Estou concentrado em consolidar minha base técnica e transformar projetos reais em produtos completos, da definição do problema até a entrega.
 
-[ACTIVE]  Finalizar o MVP do Varthex Barber com uma base sólida.
-[ACTIVE]  Evoluir em Java, Spring Boot, DDD, testes e segurança.
-[NEXT]    Aprofundar Kafka, microsserviços e arquitetura orientada a eventos.
-[NEXT]    Transformar aprendizado técnico em conteúdo para o YouTube.
-[TARGET]  Crescer de desenvolvedor júnior para engenheiro Full Stack sênior.
+| Prioridade | Em desenvolvimento |
+| --- | --- |
+| Varthex Barber | Evolução do MVP, autenticação, regras de acesso e agendamentos |
+| Backend Java | Java 21, Spring Boot, DDD, Spring Security e testes automatizados |
+| Cloud | Preparação para a certificação AWS Certified Cloud Practitioner |
+| Arquitetura | Próxima etapa: Kafka, microsserviços e comunicação orientada a eventos |
+| Produto | Documentação, organização de entregas e integração entre backend e frontend |
 
-SYSTEM: LEARNING
-MODE:   BUILDING
-RULE:   SHIP > PERFECT
+<p>
+  <img
+    src="https://img.shields.io/badge/EM_PREPARAÇÃO-AWS_CLOUD_PRACTITIONER-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"
+    alt="Em preparação para AWS Certified Cloud Practitioner"
+  />
+</p>
 
-06. TELEMETRIA_GITHUB
+06. ## TELEMETRIA_GITHUB
 
 <p align="center">
   <a href="https://github.com/arthurtvrs10">
@@ -188,7 +193,7 @@ RULE:   SHIP > PERFECT
   </a>
 </p>
 
-07. CONQUISTAS_DESBLOQUEADAS
+07. ## CONQUISTAS_DESBLOQUEADAS
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -200,7 +205,7 @@ RULE:   SHIP > PERFECT
   </a>
 </p>
 
-08. CONTRIBUTION_SNAKE
+08. ## CONTRIBUTION_SNAKE
 
 <div align="center">
   <picture>
@@ -220,7 +225,7 @@ RULE:   SHIP > PERFECT
   </picture>
 </div>
 
-09. CONECTE-SE
+09. ## CONECTE-SE
 
 <p align="center">
   <a href="https://github.com/arthurtvrs10">
