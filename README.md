@@ -156,41 +156,40 @@ Estou concentrado em consolidar minha base técnica e transformar projetos reais
   />
 </p>
 
-06. ## TELEMETRIA_GITHUB
+06. ## ## Estatísticas do GitHub
 
 <p align="center">
   <a href="https://github.com/arthurtvrs10">
     <img
       width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=arthurtvrs10&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=CBD5E1&icon_color=A78BFA&ring_color=22D3EE&rank_icon=github&locale=pt-br"
-      alt="Estatísticas GitHub de Arthur Tavares"
+      src="https://github-stats-extended.vercel.app/api?username=arthurtvrs10&show_icons=true&hide_border=true&bg_color=07111F&title_color=22D3EE&text_color=CBD5E1&icon_color=A78BFA&locale=pt-br"
+      alt="Estatísticas do GitHub de Arthur Tavares"
     />
   </a>
+
   <a href="https://github.com/arthurtvrs10?tab=repositories">
     <img
       width="49%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtvrs10&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=CBD5E1&icon_color=A78BFA&card_width=495&locale=pt-br"
-      alt="Linguagens mais usadas por Arthur Tavares"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=arthurtvrs10&layout=compact&langs_count=6&hide_border=true&bg_color=07111F&title_color=22D3EE&text_color=CBD5E1&custom_title=Principais%20linguagens"
+      alt="Principais linguagens de Arthur Tavares"
     />
   </a>
 </p>
 
 <p align="center">
   <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=arthurtvrs10&hide_border=true&locale=pt_BR&background=00000000&stroke=334155&ring=22D3EE&fire=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B"
+    width="72%"
+    src="https://streak-stats.demolab.com?user=arthurtvrs10&hide_border=true&locale=pt_BR&background=07111F&stroke=334155&ring=22D3EE&fire=A78BFA&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B"
     alt="Sequência de contribuições de Arthur Tavares"
   />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img
-      width="100%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=arthurtvrs10&bg_color=020617&color=67E8F9&line=A78BFA&point=F8FAFC&area=true&area_color=22D3EE&hide_border=true&custom_title=ATIVIDADE%20DO%20SISTEMA%20%2F%2F%20ULTIMOS%2031%20DIAS"
-      alt="Gráfico de atividade GitHub de Arthur Tavares"
-    />
-  </a>
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=arthurtvrs10&bg_color=07111F&color=67E8F9&line=A78BFA&point=F8FAFC&area=true&area_color=22D3EE&hide_border=true&custom_title=Arthur%20Tavares%20%2F%2F%20Contribuicoes"
+    alt="Gráfico de contribuições de Arthur Tavares"
+  />
 </p>
 
 07. ## CONQUISTAS_DESBLOQUEADAS
