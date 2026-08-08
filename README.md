@@ -29,7 +29,7 @@
 
 <br />
 
-01 // SOBRE_MIM
+01. SOBRE_MIM
 
 <table>
   <tr>
@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-02 // TECH_STACK
+02. TECH_STACK
 
 Backend & Core
 
@@ -76,8 +76,6 @@ Backend & Core
 Frontend & Experience
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
@@ -106,9 +104,9 @@ Labs, Desktop & Media
   <img src="https://img.shields.io/badge/FFmpeg-0B1220?style=for-the-badge&logo=ffmpeg&logoColor=007808" alt="FFmpeg" />
 </p>
 
-03 // FERRAMENTAS
+03. FERRAMENTAS
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-020617?style=for-the-badge&logo=intellijidea&logoColor=A78BFA" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/VS_Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Bruno-020617?style=for-the-badge&logo=bruno&logoColor=F4AA41" alt="Bruno" />
@@ -117,8 +115,7 @@ Labs, Desktop & Media
   <img src="https://img.shields.io/badge/Zorin_OS-020617?style=for-the-badge&logo=zorin&logoColor=22D3EE" alt="Zorin OS" />
 </p>
 
-04 // PROJETOS_EM_DESTAQUE
-
+04. PROJETOS_EM_DESTAQUE
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -137,60 +134,10 @@ Labs, Desktop & Media
         <img src="https://img.shields.io/badge/MVP_ACTIVE-22D3EE?style=flat-square&labelColor=020617" alt="MVP active" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/arthurtvrs10?tab=repositories&amp;q=cliplive">CLIPLIVE</a>
-      </h3>
-      <p align="center"><strong>Clipping inteligente de vídeos</strong></p>
-      <p>
-        SaaS para analisar, recortar, legendar e renderizar momentos de lives e
-        vídeos em formatos prontos para redes sociais.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/FFmpeg-0B1220?style=flat-square&logo=ffmpeg&logoColor=007808" alt="FFmpeg" />
-        <img src="https://img.shields.io/badge/Whisper-0B1220?style=flat-square&logo=openai&logoColor=white" alt="Whisper" />
-        <img src="https://img.shields.io/badge/BUILD_ACTIVE-A78BFA?style=flat-square&labelColor=020617" alt="Build active" />
-      </p>
-    </td>
-  </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/arthurtvrs10?tab=repositories&amp;q=tavares-studio">TAVARES STUDIO</a>
-      </h3>
-      <p align="center"><strong>Desktop CAD & orçamento para marmorarias</strong></p>
-      <p>
-        Aplicação desktop para desenho técnico de peças, cálculo de medidas,
-        composição de custos, orçamentos e exportação profissional.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Tauri-0B1220?style=flat-square&logo=tauri&logoColor=24C8DB" alt="Tauri" />
-        <img src="https://img.shields.io/badge/Rust-0B1220?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-        <img src="https://img.shields.io/badge/Vite-0B1220?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
-        <img src="https://img.shields.io/badge/DESKTOP_R%26D-22D3EE?style=flat-square&labelColor=020617" alt="Desktop research and development" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/arthurtvrs10/novarys">NOVARYS PLAY</a>
-      </h3>
-      <p align="center"><strong>Experiência digital orientada à conversão</strong></p>
-      <p>
-        Landing page em Next.js com identidade visual própria, SEO,
-        responsividade e jornada de conversão direta pelo WhatsApp.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-0B1220?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/SEO-0B1220?style=flat-square&logo=google&logoColor=22D3EE" alt="SEO" />
-        <img src="https://img.shields.io/badge/FRONTEND-A78BFA?style=flat-square&labelColor=020617" alt="Frontend" />
-      </p>
-    </td>
-  </tr>
 </table>
 
-05 // MISSÕES_ATUAIS
+05. MISSÕES_ATUAIS
 
 arthur@jarvis:~$ ./current-missions --status
 
@@ -204,7 +151,7 @@ SYSTEM: LEARNING
 MODE:   BUILDING
 RULE:   SHIP > PERFECT
 
-06 // TELEMETRIA_GITHUB
+06. TELEMETRIA_GITHUB
 
 <p align="center">
   <a href="https://github.com/arthurtvrs10">
@@ -241,7 +188,7 @@ RULE:   SHIP > PERFECT
   </a>
 </p>
 
-07 // CONQUISTAS_DESBLOQUEADAS
+07. CONQUISTAS_DESBLOQUEADAS
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -253,7 +200,7 @@ RULE:   SHIP > PERFECT
   </a>
 </p>
 
-08 // CONTRIBUTION_SNAKE
+08. CONTRIBUTION_SNAKE
 
 <div align="center">
   <picture>
@@ -273,7 +220,7 @@ RULE:   SHIP > PERFECT
   </picture>
 </div>
 
-09 // CONECTE-SE
+09. CONECTE-SE
 
 <p align="center">
   <a href="https://github.com/arthurtvrs10">
@@ -281,6 +228,13 @@ RULE:   SHIP > PERFECT
   </a>
   <a href="https://www.instagram.com/arthurtvrs10/">
     <img src="https://img.shields.io/badge/Instagram-%40arthurtvrs10-020617?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram de Arthur Tavares" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/arthur-tavares-mendonça-b77960340">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Arthur_Tavares-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE"
+      alt="LinkedIn de Arthur Tavares"
+    />
   </a>
 </p>
 
