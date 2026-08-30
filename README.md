@@ -127,7 +127,7 @@ Labs, Desktop & Media
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="[https://github.com/arthurtvrs10/varthex-barber](https://github.com/arthurtvrs10/LINEUP)">LINEUP</a>
+        <a href="https://github.com/arthurtvrs10/varthex-barber">LINEUP</a>
       </h3>
       <p align="center"><strong>SaaS de gestão para barbearias</strong></p>
       <p>
