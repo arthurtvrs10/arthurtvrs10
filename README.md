@@ -23,33 +23,6 @@
 
 <br />
 
-## PROJETOS_EM_DESTAQUE
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/arthurtvrs10/varthex-barber">LINEUP</a>
-      </h3>
-      <p align="center"><strong>SaaS de gestão para barbearias</strong></p>
-      <p>
-        Plataforma para centralizar agendamentos, equipe, estoque, comissões,
-        relacionamento com clientes e indicadores da operação.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java_21-0B1220?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Spring_Boot-0B1220?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/Next.js-0B1220?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/MVP_ACTIVE-22D3EE?style=flat-square&labelColor=020617" alt="MVP active" />
-      </p>
-    </td>
-  <tr>
-</table>
-
-
-
-
-<br />
-
 <p align="center">
   <em>
     “Nós somos aquilo que fazemos repetidamente. Excelência, então, não é um modo de agir, mas sim um hábito.”
